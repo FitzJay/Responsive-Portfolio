@@ -1,2 +1,1 @@
-# Responsive-Portfolio
-HW 2
+# Basic-Portfolio
